@@ -9,3 +9,5 @@ Don't just take our word for it, give Sivine a try and see for yourself the endl
 Join us in pushing the boundaries of what's possible and let's create something truly amazing! 🌟🚀🌟
 
 P.S. Why did the game developer quit his job? Because he was tired of dealing with all the bugs! 🐛🤣
+
+(Amazing README made by Charlotte)
