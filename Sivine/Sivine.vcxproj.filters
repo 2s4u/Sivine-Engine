@@ -39,6 +39,9 @@
     <ClCompile Include="EBO.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="stb.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -64,9 +67,12 @@
     <ClInclude Include="EBO.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\Users\aspen\Downloads\grip.png">
+    <Image Include="..\doggy.png">
       <Filter>Resource Files\Textures</Filter>
     </Image>
   </ItemGroup>
